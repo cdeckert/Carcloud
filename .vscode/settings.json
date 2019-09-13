@@ -4,5 +4,6 @@
     "**/node_modules": true,
     "**/bower_components": true,
     "**/.sfdx": true
-  }
+  },
+  "eslint.nodePath": "/Users/cdeckert/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-46.14.0/node_modules"
 }
