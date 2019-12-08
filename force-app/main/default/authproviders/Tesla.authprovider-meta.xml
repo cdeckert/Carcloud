@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customMetadataTypeRecord>carcloud__Tesla_Auth_Provider_Settings__mdt.carcloud__Tesla</customMetadataTypeRecord>
+    <executionUser>test-ktihgv72y7mi@example.com</executionUser>
+    <friendlyName>Tesla</friendlyName>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <plugin>Tesla</plugin>
+    <providerType>Custom</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+</AuthProvider>

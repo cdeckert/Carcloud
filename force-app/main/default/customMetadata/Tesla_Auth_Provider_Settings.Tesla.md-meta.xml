@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Tesla</label>
+    <protected>false</protected>
+    <values>
+        <field>Client_Id__c</field>
+        <value xsi:type="xsd:string">e4a9949fcfa04068f59abb5a658f2bac0a3428e4652315490b659d5ab3f35a9e</value>
+    </values>
+    <values>
+        <field>Client_Secret__c</field>
+        <value xsi:type="xsd:string">c75f14bbadc8bee3a7594412c31416f8300256d7668ea7e6e7f06727bfb9d220</value>
+    </values>
+    <values>
+        <field>Token_Endpoint_URL__c</field>
+        <value xsi:type="xsd:string">https://owner-api.teslamotors.com/oauth/token</value>
+    </values>
+</CustomMetadata>
